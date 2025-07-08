@@ -1,2 +1,2 @@
-# CSE-220-Recitation-1
+# CSE-220-Recitation
 Reciation notes and code files
